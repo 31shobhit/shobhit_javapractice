@@ -9,7 +9,7 @@ public class fibonnoci
         int n = scan.nextInt();
         int prev = 0;  //previous number
         int init = 1;  //Initial number
-        int count =2;
+        int count = 2; //count starts from here
         while(count<=n)
         {
             int temp=init;
