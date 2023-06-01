@@ -20,6 +20,7 @@ public class DistanceCalculator
 
         double distance = calculateDistance(x1, y1, x2, y2);
         System.out.println("The distance between the two points is: " + distance);
+        scanner.close();
     }
 
     public static double calculateDistance(double x1, double y1, double x2, double y2) 

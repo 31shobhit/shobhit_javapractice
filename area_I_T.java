@@ -11,5 +11,6 @@ public class area_I_T
         double base = scan.nextDouble();
         double area = (height*base)/2; // formula of area of Isosceles triangle
         System.out.println("Area of trianle: " +area);
+        scan.close();
     }
 }

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class area_Cylin 
+public class area_c
 {
     public static void main(String[] args)
     {
